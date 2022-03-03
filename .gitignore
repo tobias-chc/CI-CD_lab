@@ -2,5 +2,6 @@
 env_ci_cd
 
 #python test results cache
-__.*
-.*
+__pycache__
+.pytest_cache
+

@@ -1,7 +1,9 @@
 # Tests (copy to tests/test_user_functions.py)
 import pytest
+import os
 import io
-from user_functions import *
+
+from src.user_functions import *
 
 
 # Email test
