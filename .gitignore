@@ -1,2 +1,6 @@
 #virtual env
 env_ci_cd
+
+#python test results cache
+__.*
+.*
