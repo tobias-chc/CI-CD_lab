@@ -1,5 +1,6 @@
 import string
 
+
 # More elaborated version (copy to src/user_functions.py)
 def get_email_from_input():
     """ Contains '@' and '.' """
@@ -23,6 +24,7 @@ def get_user_name_from_input():
         print('Username is not valid.')
     else:
         return username
+
 
 def get_password_from_input():
     """ Password needs to be at least 8 characters long with
